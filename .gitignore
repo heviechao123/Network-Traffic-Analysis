@@ -1,0 +1,15 @@
+# Python virtual environment
+.venv/
+venv/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Sensitive or machine-specific capture data
+data/*.csv
+*.pcap
+*.pcapng
+
+# Editor settings
+.vscode/
